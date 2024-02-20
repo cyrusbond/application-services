@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"rc_log_ffi":[["impl <a class=\"trait\" href=\"https://docs.rs/log/0.4.20/log/trait.Log.html\" title=\"trait log::Log\">Log</a> for <a class=\"struct\" href=\"rc_log_ffi/android/struct.LogSink.html\" title=\"struct rc_log_ffi::android::LogSink\">LogSink</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LogLevel"],"fn":["rc_log_adapter_create","rc_log_adapter_destroy","rc_log_adapter_destroy_string","rc_log_adapter_set_max_level","rc_log_adapter_test__log_msg"],"mod":["android"]};
